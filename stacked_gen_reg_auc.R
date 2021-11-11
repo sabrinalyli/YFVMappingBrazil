@@ -2,7 +2,6 @@
 
 #install.packages("SuperLearner")
 library(SuperLearner)
-library(ck37r)
 library(seegSDM)
 library(tidyr)
 library(dplyr)
