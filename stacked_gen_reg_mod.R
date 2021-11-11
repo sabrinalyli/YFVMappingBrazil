@@ -1,5 +1,4 @@
 library(SuperLearner)
-library(ck37r)
 library(seegSDM)
 library(tidyr)
 library(dplyr)
@@ -10,7 +9,7 @@ library(xgboost)
 library(kernlab)
 library(ranger)
 library(purrr)
-library(tidyverse)
+
 
 #import df containing presence/absence records for species  and environmental covariates
 occ_covariates_df<-readRDS("occ/occ_hg_jan_geo_post1990.rds") %>%
