@@ -11,7 +11,7 @@ library(ranger)
 library(purrr)
 
 
-#import df containing presence/absence records for species  and environmental covariates
+#import df containing standardized presence/absence records for species and environmental covariates
 occ_covariates_df<-readRDS("occ/occ_hg_jan_geo_post1990.rds") %>%
   dplyr::select(-Year,-landc12ext,-wsf_2015_brazil,
                 -ntempavg,-ntempmin,-ntempmax, 
