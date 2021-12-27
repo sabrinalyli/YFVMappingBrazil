@@ -7,7 +7,7 @@ Li, S. L. , Acosta A.L., Hill, S.C., Brady, O.J., ... Messina, J.P., et al. (202
 
 ## Variable Importance and Partial Dependence 
 
-Covariate importance (ranked in descending order) and partial dependence plots for Hg. janthinomys, Hg. leucocelaenus, and Sabethes spp can be viewed via varimp_hgjan.html, varimp_hgleuco.html, and varimp_sa.html in this repository. 
+Covariate importance (ranked in descending order) and partial dependence plots for Hg. janthinomys, Hg. leucocelaenus, and Sabethes spp can be viewed via varimp_hgjan.html, varimp_hgleuco.html, and varimp_sa.html shared in this repository. 
 
 Land-use variable legend: 
 
