@@ -11,8 +11,8 @@ Covariate importance (ranked in descending order) and partial dependence plots f
 
 Land-use variable legend: 
 
-landc02ext – evergreen forest cover
-landc03ext – deciduous forest cover
+landc02ext – evergreen forest cover;
+landc03ext – deciduous forest cover;
 landc07ext – cultivated and managed vegetation cover
 
 
